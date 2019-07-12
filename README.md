@@ -19,4 +19,4 @@ Joblib for saving the model
 ## Output:
 ```
  1 . Import the dataset
-![Screenshot (27)](https://user-images.githubusercontent.com/39912483/61133390-029ac000-a4db-11e9-99fd-dab29e37b0d2.png)
+
