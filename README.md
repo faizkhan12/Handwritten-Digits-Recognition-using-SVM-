@@ -19,4 +19,4 @@ Joblib for saving the model
 ## Output:
 ```
  1 . Import the dataset
- https://github.com/faizkhan12/Handwriiten-Digits-Recognition-using-SVM-/blob/master/Screenshot%20(26).png?raw=true
+https://github.com/faizkhan12/Handwriiten-Digits-Recognition-using-SVM-/issues/1#issue-467426927
