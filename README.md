@@ -21,7 +21,7 @@ Joblib for saving the model
  1 . Import the dataset
  2 . Plot of features 
  ```
-![](csv/Screenshot.png)
+![](images/Screenshot.png)
  ```
  3 . Separate labels and features
  ```
