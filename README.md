@@ -19,4 +19,28 @@ Joblib for saving the model
 ## Output:
 ```
  1 . Import the dataset
+ 2 . Plot of features 
+ ```
+![](csv/Screenshot.png)
+ ```
+ 3 . Separate labels and features
+ ```
+ ![](images/Screenshot1.png)
+ ```
+ 4 . Build a model and save it 
+ ```
+ ![](images/Screenshot2.png)
+ ```
+ 5 . Print Accuracy
+ ```
+ ![](images/Screenshot3.png)
+ 
+ ## Live predictor using OpenCV:
+ ![](images/Screenshot11.png)
+ <p align="center">
+ <img src="http://www.codeheroku.com/static/images/digit_recog.gif">
+</p>
 
+## Result:
+Accuracy of the model 
+![](images/Screenshot10.png)
